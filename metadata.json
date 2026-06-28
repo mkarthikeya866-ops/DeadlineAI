@@ -1,0 +1,6 @@
+{
+  "name": "DeadlineAI",
+  "description": "An AI-powered productivity operating system designed to plan, prioritize, predict, optimize, execute, and improve your workflows.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
